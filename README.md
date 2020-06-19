@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## The internet source registry.
 
-You can use the [editor on GitHub](https://github.com/InternetSourceRegistry/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We want fairness, accountability, and responsible journalism on the internet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We think consumers deserve to know where their information comes from.
+
+We think producers should be rewarded for responsible journalism.
+
+We think that trust is valuable. We think it is OK to be wrong.
 
 ### Markdown
 
